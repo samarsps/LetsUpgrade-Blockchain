@@ -1,0 +1,49 @@
+ASSIGNMENT - 1
+
+1.	What is your understanding of Blockchain?
+Blockchain is a distributed database existing on multiple computers at the same time. It is constantly growing as new sets of recordings, or 'blocks', are added to it. 
+Each block contains a timestamp and a link to the previous block, so they actually form a chain.
+
+2.	What is the core problem Blockchain trying to solve?
+•	Blockchain Addresses the Problem of Data Loss Due to Hardware or Connectivity Issues
+•	Blockchain Addresses the Problem of Data Corruption Due to Intermittent Hardware or Connectivity Issues
+•	Blockchain Addresses the Problem of Data Security and Trust by Making the Ledger Public
+
+3.	What are the new features which Blockchain will give you?
+•	Cannot be Corrupted - 
+Immutability means something that can’t be changed or altered. This is one of the blockchain features that help to ensure that the technology will remain as it is – a permanent, unalterable network. 
+
+•	Decentralized Technology - 
+The network is decentralized meaning it doesn’t have any governing authority or a single person looking after the framework. 
+Rather a group of nodes maintains the network making it decentralized.
+
+•	Enhanced Security - 
+Added with decentralization, cryptography lays another layer of protection for users. Cryptography is a rather complex mathematical algorithm that acts as a firewall for attacks.
+•	Distributed Ledgers - 
+Usually, a public ledger will provide every information about a transaction and the participant. It’s all out in the open, nowhere to hide. 
+Although the case for private or federated blockchain is a bit different. But still, in those cases many people can see what really goes on in the ledger.
+
+•	Consensus - 
+In simple terms, the consensus is a decision-making process for the group of nodes active on the network. Here, the nodes can come to an agreement quickly and relatively faster. 
+When millions of nodes are validating a transaction, a consensus is absolutely necessary for a system to run smoothly. 
+You could think of it as kind of a voting system, where the majority wins, and the minority has to support it.
+
+•	Faster Settlement - 
+Traditional banking systems are quite slow. Sometimes it can take days to process a transaction after finalizing all settlements. 
+It also can be corrupted quite easily. Blockchain offers a faster settlement compared to traditional banking systems. T
+his way a user can transfer money relatively faster, which saves a lot of time in the long run.
+
+4.	What all things does a Block contain?
+A Block represents the ‘present’ and contains information about its past and future. Each time a block is completed it becomes part of the past and gives way to a new block in the blockchain. The completed block is a permanent record of transactions in the past and the new transactions are recorded in the current one.
+This way, the whole system works in a cycle and data gets permanently stored. Each block comprises records of some or all recent transactions, and a reference to the block that preceded it which, along with Bitcoin's peer-to-peer verification system, makes it virtually impossible for a user to tamper with previously recorded transaction data. 
+
+5.	How is the verifiability of Blockchain has been attained?
+To create a new block, block 101, some of the data is used (or a hash is created by an algorithm that turns an arbitrarily large amount of data into a fixed-length random number) from the previous block, block 100. Then to create the new block 102, information from block 101 is used, and so on. Transactions are dependent on the prior transaction. Similar to a light string on a Christmas tree. If a light bulb were pulled from the string (changing a transaction), the miner would have to change every previous transaction ever made in that string. Probabilistically this is almost impossible, as not everyone would reach consensus on the proposed change.
+The result is an immutable digital record for every agreed transaction: a single source of truth.
+
+
+
+
+
+
+
