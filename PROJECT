@@ -1,0 +1,32 @@
+pragma solidity ^0.4.21 < 0.6.12; 
+
+contract LandRecord{
+    
+    string public name;
+    uint public   rollno ;
+    string public batch;
+    string public science;
+    string public maths;
+    string public accounts;
+    string public law;
+    string public status;
+    
+    function LandRecord(string newName, uint newRollNo, string newBatch, string newScience, string newMaths, string newAccounts, string newLaw, string newStatus) public{
+        
+        name = newName;
+        rollno = newRollNo;
+        batch = newBatch;
+        science = newScience;
+        maths = newMaths;
+        accounts = newAccounts;
+        law = newLaw;
+        status = newStatus;
+        
+    }
+    
+
+    
+    
+}
+
+
